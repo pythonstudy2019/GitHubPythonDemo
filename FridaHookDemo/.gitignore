@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+.externalNativeBuild
+venv/
+frida-server-12.6.11-android-x86
+*.ini
+
